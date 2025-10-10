@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/hasnain-khan-b05b3b252/"><img src="https://img.shields.io/badge/-Hasnain%20Khan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/u/HKDev/"><img src="https://img.shields.io/badge/-HKDev-FFA116?style=flat&logo=LeetCode&logoColor=black"/></a>
   <a href="mailto:hasnainkhan9750@gmail.com"><img src="https://img.shields.io/badge/-hasnainkhan9750@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=hasnainmubarak&label=Profile%20Views&color=6366f1&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=HK9750&label=Profile%20Views&color=6366f1&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -108,13 +108,13 @@ const hasnain = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasnainmubarak&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HK9750&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hasnainmubarak&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HK9750&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainmubarak&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HK9750&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hasnainmubarak&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HK9750&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
 
 </div>
 
@@ -214,10 +214,10 @@ const currentJourney: LearningPath = {
 
 <div align="center">
   
-### ⭐️ From [Hasnain Mubarak](https://github.com/hasnainmubarak)
+### ⭐️ From [Hasnain Mubarak](https://github.com/HK9750)
 
 *"Passionate about building scalable systems and solving complex problems. Let's create something amazing together!"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=hasnainmubarak&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=HK9750&color=blueviolet&style=flat-square)
 
 </div>
