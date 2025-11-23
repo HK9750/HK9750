@@ -144,7 +144,7 @@ const hasnain = {
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HK9750&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=HK9750&bg_color=0D1117&color=667eea&line=f093fb&point=c9d1d9&hide_border=true" />
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HK9750&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HK9750&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7&title=Commits,Repositories,Stars,Followers)
 
 </div>
 
