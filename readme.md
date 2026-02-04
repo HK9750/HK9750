@@ -1,285 +1,89 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Hasnain%20Mubarak&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" />
-</div>
+# Hasnain Mubarak
+### Backend Engineer | Full Stack Developer
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=900&lines=Backend+Developer+%7C+500%2B+LeetCode+Problems+Solved+%F0%9F%9A%80;Perfecting+Backend+Architecture+%26+System+Design+%F0%9F%92%BB;Building+Scalable%2C+Production-Ready+Systems+%E2%9A%A1;Passionate+About+Clean+Code+%26+Best+Practices+%F0%9F%8E%AF)](https://git.io/typing-svg)
-  
-</div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hasnain-khan-b05b3b252/"><img src="https://img.shields.io/badge/-Hasnain%20Khan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/HKDev/"><img src="https://img.shields.io/badge/-HKDev-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
-  <a href="mailto:hasnainkhan9750@gmail.com"><img src="https://img.shields.io/badge/-hasnainkhan9750@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=HK9750&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile views" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/hasnain-khan-b05b3b252/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/HKDev/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:hasnainkhan9750@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-```javascript
-const hasnain = {
-    pronouns: "He" | "Him",
-    location: "Pakistan 🇵🇰",
-    role: "Backend Developer",
-    currentFocus: "Perfecting Backend Architecture",
-    languages: ["JavaScript", "TypeScript", "Python", "SQL"],
-    currentlyMastering: [
-        "Advanced System Design",
-        "Microservices Architecture", 
-        "Database Optimization",
-        "Scalability Patterns"
-    ],
-    achievement: "500+ LeetCode Problems Solved 🏆",
-    openToWork: true,
-    lifePhilosophy: "Write code that speaks for itself 📝"
-};
-```
+I am a Backend Engineer focused on building scalable, production-grade systems. My expertise lies in designing robust APIs, optimizing database architectures, and implementing microservices. I am passionate about clean code, system design patterns, and distributed systems.
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-- 🔭 **Currently:** Deep diving into backend engineering & system design
-- 🎯 **Goal:** Building production-grade, scalable backend systems
-- 💡 **Passion:** Solving complex algorithmic problems & optimizing systems
-- 🌱 **Learning:** Advanced AWS, Kubernetes, and distributed systems
-- 💬 **Ask me about:** Node.js, Database Design, API Architecture, DSA
-- ⚡ **Fun fact:** Solved 500+ coding problems and still hungry for more!
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+* **Current Focus:** Advanced Backend Architecture, System Design, and Go ecosystems
+* **Core Stack:** TypeScript, Node.js, NestJS, Go (Golang), PostgreSQL
+* **Interests:** Microservices, Database Optimization, Scalability Patterns
 
 ---
 
-## 🛠️ Tech Arsenal
-
-<div align="center">
+## 🛠 Technical Skills
 
 ### 💻 Languages & Core
-<p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🎨 Frontend Development
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-</p>
+### ⚙️ Backend Development
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-### ⚙️ Backend Development (My Stronghold 🏰)
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-</p>
+### 🗄️ Databases & Storage
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🗄️ Databases
-<p>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-</p>
+### ☁️ DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### ☁️ DevOps & Cloud
-<p>
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</p>
+### 🎨 Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🔧 Tools & Others
-<p>
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-</p>
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+### 🔧 Tools
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-## 🏆 LeetCode Stats & Achievements
+## 💼 Core Competencies
 
-<div align="center">
-  
-![LeetCode Stats](https://leetcard.jacoblin.cool/HKDev?theme=dark&font=Ubuntu&ext=heatmap)
-
-### 🎯 500+ Problems Solved | Building Strong DSA Foundation
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+* **API Development:** Designing RESTful APIs with a focus on performance and security.
+* **System Architecture:** Experience with Microservices architecture, Reverse Proxies (Nginx), and Event-Driven patterns.
+* **Database Management:** Schema design, complex querying, and performance tuning (SQL & NoSQL).
+* **Infrastructure:** Containerization using Docker and cloud deployment on AWS.
 
 ---
 
-## 📊 GitHub Statistics
+## 🧩 Problem Solving & Algorithms
 
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HK9750&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=HK9750&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=f093fb&currStreakLabel=667eea" />
+I maintain a strong grasp of Data Structures and Algorithms (DSA) through consistent practice.
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HK9750&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=HK9750&bg_color=0D1117&color=667eea&line=f093fb&point=c9d1d9&hide_border=true" />
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HK9750&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7&title=Commits,Repositories,Stars,Followers)
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+* **LeetCode:** [**500+ Problems Solved**](https://leetcode.com/u/HKDev/)
+* **Proficiency:** Arrays, Strings, Trees, Dynamic Programming, and Graph Algorithms.
+* **Focus:** Writing efficient, optimized code with low time and space complexity.
 
 ---
 
-## 💼 What I Bring to the Table
+## 📬 Contact
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+I am always open to discussing backend engineering, system design, or potential collaborations.
 
-### 🎯 Backend Expertise
-- ✅ RESTful API Design & Development
-- ✅ Database Design & Optimization
-- ✅ Microservices Architecture
-- ✅ Authentication & Authorization
-- ✅ Real-time Communication
-- ✅ Message Queue Systems (RabbitMQ)
-- ✅ Cloud Deployment (AWS EC2)
-- ✅ Containerization with Docker
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 Problem Solving
-- ✅ 500+ LeetCode Problems Solved
-- ✅ Strong DSA Foundation
-- ✅ Algorithm Design & Analysis
-- ✅ System Design Thinking
-- ✅ Code Optimization
-- ✅ Debugging & Troubleshooting
-- ✅ Scalability Patterns
-- ✅ Best Practices
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
----
-
-## 🎓 Currently Mastering
-
-```typescript
-interface LearningPath {
-  core: string[];
-  advanced: string[];
-  exploring: string[];
-}
-
-const currentJourney: LearningPath = {
-  core: [
-    "Advanced Backend Architecture",
-    "System Design Patterns",
-    "Database Performance Optimization",
-    "API Security Best Practices"
-  ],
-  advanced: [
-    "Kubernetes & Container Orchestration",
-    "Distributed Systems",
-    "Event-Driven Architecture",
-    "Advanced AWS Services (Lambda, S3, RDS)"
-  ],
-  exploring: [
-    "GraphQL",
-    "gRPC",
-    "Serverless Architecture",
-    "CI/CD Pipelines with GitHub Actions"
-  ]
-};
-```
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-### 💬 I'm always open to interesting conversations and collaboration opportunities!
-
-<a href="https://www.linkedin.com/in/hasnain-khan-b05b3b252/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/HKDev/">
-  <img src="https://img.shields.io/badge/LeetCode-Follow-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<a href="mailto:hasnainkhan9750@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-### 📬 **Email:** hasnainkhan9750@gmail.com
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer"/>
-</div>
-
-<div align="center">
-  
-### ⭐️ From [Hasnain Mubarak](https://github.com/HK9750)
-
-*"Passionate about building scalable systems and solving complex problems. Let's create something amazing together!"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=HK9750&color=667eea&style=flat-square)
-
-</div>
+* **Email:** [hasnainkhan9750@gmail.com](mailto:hasnainkhan9750@gmail.com)
+* **LinkedIn:** [Hasnain Khan](https://www.linkedin.com/in/hasnain-khan-b05b3b252/)
